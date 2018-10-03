@@ -7,3 +7,5 @@ function destructivelyAppendKitten(kittens, newKitten) {
   kittens.push(newKitten);
   console.log(kittens);
 }
+
+destructivelyAppendKitten();
