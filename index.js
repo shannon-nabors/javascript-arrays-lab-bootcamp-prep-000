@@ -1,5 +1,8 @@
 // Add your functions and code here
 
 var kittens = ["Milo", "Otis", "Garfield"];
+var newKitten = "Ham"
 
-function destructivelyAppendKitten()
+function destructivelyAppendKitten(kittens, newKitten) {
+  
+}
