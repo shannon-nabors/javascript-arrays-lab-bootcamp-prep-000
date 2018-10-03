@@ -5,5 +5,5 @@ var newKitten = "Ham"
 
 function destructivelyAppendKitten(kittens, newKitten) {
   kittens.push(newKitten);
-  return(kittens);
+  console.log(kittens);
 }
