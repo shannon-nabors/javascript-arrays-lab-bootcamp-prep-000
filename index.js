@@ -7,4 +7,7 @@ function destructivelyAppendKitten(kittens) {
   return(kittens);
 }
 
-console.log(destructivelyAppendKitten(kittens));
+function destructivelyPrependKitten(kittens) {
+  kittens.unshift("Bob");
+  return(kittens);
+}
