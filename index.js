@@ -8,4 +8,4 @@ function destructivelyAppendKitten(kittens, newKitten) {
   console.log(kittens);
 }
 
-destructivelyAppendKitten(kittens, newKitten);
+console.log(destructivelyAppendKitten(kittens, newKitten));
